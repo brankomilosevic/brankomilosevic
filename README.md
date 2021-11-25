@@ -2,7 +2,7 @@ Hi,
 
 I’m Branko Milosevic [@brankomilosevic]
 
-I’m interested in all about programming and telecommunications.
+Twenty something years of experience in programming and telecommunications.
 
 I’m currently into C/CPP/Go, CloudComputing, k8s/microservices (a little bit of machine learning, as well)...
 
